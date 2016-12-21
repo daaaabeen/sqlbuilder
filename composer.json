@@ -1,0 +1,17 @@
+{
+    "name": "beenlee/sqlbuilder",
+    "description": "sql builder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "lidianbin",
+            "email": "lidianbin@baidu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Beenlee\\SqlBuilder\\": "src"
+        }
+    },
+    "require": {}
+}
